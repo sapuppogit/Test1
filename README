@@ -1,12 +1,12 @@
 git init Test1
 cd Test1
 gedit README
-gedit sample.c
-	#include<stdio.h>
-	int main() {
-		printf("hello world");
-		return 0;
-	}
+
+eclipse
+   File
+   Import...
+   Git
+   
 git add -A
     #git add -A stages all changes
     #git add . stages new files and modifications, without deletions
